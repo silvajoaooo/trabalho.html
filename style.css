@@ -1,0 +1,131 @@
+head
+{
+    nav-down: auto;
+}
+body
+{
+    background-color: #353535;
+    color: white;
+    font-size: 20px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10%;
+    margin-top: 8%;
+}
+div
+{
+    margin-bottom: 50px;
+}
+table
+{
+    border: 1px #2D9CCE;
+    text-align: center;
+    border-style: solid;
+    width: 100%;
+}
+select
+{
+    text-align: center;
+}
+th
+{
+    color: #F7DC11;
+    border-style: solid;
+    padding: 5px;
+}
+td
+{
+    border: 1px #c0c0c0;
+    border-style: solid;
+    padding: 5px;
+}
+a:hover
+{
+    color: #F7DC11;
+}
+a
+{
+    color:  #2D9CCE; 
+    text-decoration: none;
+    padding: 5px;
+}
+article
+{
+    margin-top: 50px;
+    margin-right: 25%;
+}
+p
+{
+    font-family: sans-serif;
+    margin-right: 5%;
+}
+fieldset
+{
+    margin: 25px;
+    border-radius: 5px;
+    border: solid #696969 5px;
+    background-color: #353535;
+}
+.title
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: #c0c0c0;
+}
+.logo
+{  
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 75px;
+    background-image: url("fundo.jpg");
+    background-size: auto;
+    background-position: 100%;
+    background-position-y: -50%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px
+}
+.poster
+{
+    width: 350px;
+    border-radius: 5px;
+    border-width: 1mm;
+    border-style: groove;
+    color: #F7DC11;
+}
+.date
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: -20 px;
+    color: #d3161c;
+}
+.choss
+{
+    text-align: center;
+}
+.form
+{
+    color: #F7DC11;
+    margin-top: -50px;
+    text-decoration: none;
+    right: 10%;
+    border-radius: 50px;
+    border: solid 2.5px #2D9CCE;
+    width: fit-content;
+    background-color: #2D9CCE50;
+    position:absolute
+}
+.announce
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+    color: #F7DC11;
+}
+.loginbox
+{
+    border-radius: 10px;
+    background-color: #524d4d;
+    margin: auto auto auto auto;
+    padding: 50px 5px 5px 5px;
+    width: 25%;
+}
